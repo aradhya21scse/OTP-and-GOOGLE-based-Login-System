@@ -1,5 +1,3 @@
-# Ignore the vendor directory (dependencies installed via Composer)
-vendor/
 
-# Ignore the writable directory (contains logs, sessions, cache, etc.)
-writable/
+/vendor/
+/writable/
